@@ -1,0 +1,1 @@
+a:6:{s:8:"username";s:10:"chiranjeev";s:9:"full_name";s:19:"Chiranjeev V. Tapas";s:5:"email";s:20:"chiranjeev@gmail.com";s:8:"password";s:64:"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92";s:9:"unique_id";s:13:"553fdfafd0d73";s:4:"date";s:20:"21:29:51 28-Apr-2015";}

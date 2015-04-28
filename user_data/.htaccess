@@ -1,0 +1,4 @@
+AuthName "Autherised Persons Only!"
+AuthUserFile Class/.htpasswd
+AuthType Basic
+require valid-user
